@@ -1,5 +1,7 @@
 # RFID Cloner using Arduino UNO & RC522
 
+![RFID Cloner - ready to scan](images/rfid-scan-ready.png)
+
 A hardware-based RFID cloner built with an **Arduino UNO** and the **RC522 (MFRC522) RFID reader module**, designed to read, analyze, and duplicate 13.56 MHz MIFARE Classic card data — while demonstrating just how weak the security of low-cost RFID access systems really is.
 
 > Built as a final-year academic project (B.Sc. Advanced Networking & Cyber Security, Brainware University) by **Amit Roy, Arpan Chakraborty, Adrija Goswami, and Subhadip Parua**.
@@ -100,6 +102,10 @@ RFID technology is everywhere — office badges, hostel/campus ID cards, transit
 ---
 
 ## 📸 Screenshots
+
+**System ready — waiting for a card**
+
+![Scan your RFID](images/rfid-scan-ready.png)
 
 **UID read on Serial Monitor**
 
